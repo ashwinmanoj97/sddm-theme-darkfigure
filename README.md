@@ -4,7 +4,7 @@ A theme for the [SDDM](https://github.com/sddm/sddm).
 
 ### Preview
 
-![Preview](./Previews/preview.png)
+![Preview](./Previews/Preview.png)
 
 ### Dependencies
 
